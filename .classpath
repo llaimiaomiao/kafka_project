@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/kafkalib2"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/kafka_2.10-0.8.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/kafka_2.10-0.8.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/kafka_2.10-0.8.1.1-scaladoc.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/kafka_2.10-0.8.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/scala-library-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/snappy-java-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/zkclient-0.3.jar"/>
+	<classpathentry kind="lib" path="D:/BaiduYunDownload/黑马12期大数据8天/weekend110-第7天/kafka_2.10-0.8.1.1/libs/zookeeper-3.3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
